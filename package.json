@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-json-rpc": "^0.0.1"
+  }
+}
